@@ -1,5 +1,11 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+Assignment # 1
+Read text from a file and find words that appear most in a line in the file.
 
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+finding the highest frequency word(s) in each line.
+finding lines in the file whose "highest frequency words" is the greatest value among all lines.
+Result
+Print the result in the following format.
+
+The following words have the highest word frequency per line:
+["word1"] (appears in line #)
+["word2", "word3"] (appears in line #)
